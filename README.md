@@ -64,7 +64,7 @@ No-code tools
 Coding required
 * [R and R Studio](https://github.com/ireapps/NICAR26-Intro-to-R)
 * [Python](https://github.com/ireapps/teaching-guide-python-scraping)
-* Javascript for web apps
+* JavaScript for web apps
 	* [ChartsJS](https://www.chartjs.org/docs/latest/getting-started/installation.html)
 	* [D3](https://d3js.org/)
 	* [Svelte](https://svelte.dev/) 
@@ -80,6 +80,7 @@ Other stuff
 * [uv](https://docs.astral.sh/uv/) for Python package and project management
 * [Github](https://github.com/) for version control and saving code
 * [Netlify](https://www.netlify.com/) for hosting
+* [Playwright] (https://playwright.dev/) for scraping and testing
   
 ## Contact me
 Email: cbrownlee@thetrace.org

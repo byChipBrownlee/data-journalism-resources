@@ -80,7 +80,7 @@ Other stuff
 * [uv](https://docs.astral.sh/uv/) for Python package and project management
 * [Github](https://github.com/) for version control and saving code
 * [Netlify](https://www.netlify.com/) for hosting
-* [Playwright] (https://playwright.dev/) for scraping and testing
+* [Playwright](https://playwright.dev/) for scraping and testing
   
 ## Contact me
 Email: cbrownlee@thetrace.org
